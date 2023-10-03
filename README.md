@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <!--
 **ahmed-ibrahim-asl/ahmed-ibrahim-asl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
