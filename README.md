@@ -1,32 +1,83 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-## About Me :  
-- 👨‍🎓  I'm student at communication and telecom engineering at Delta University.
-- 🌟  I'm interested in Embedded systems world, cybersecurity and Video editing.
-- 💬  Fun Fact: I love having techinical and non-technical Discussion with others.
+<h1 align="left">About Me:</h1>
+
+###
+
+- 👨‍🎓 I'm student at communication and telecom engineering at Delta University.
+- 🌟 I'm interested in Embedded systems world, cybersecurity and Video editing.
+- 💬 Fun Fact: I love having techinical and non-technical Discussion with others.
+
+###
+
+<h1 align="left">Connect With Me:</h1>
+
+###
+
+<div align="left">
+
+  <!-- Don't forget to add link to email address-->
+  <a>
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-ibrahim-asl/" target="_blank" style="text-decoration: none !important; outline: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://t.me/aa7608327" target="_blank" style="text-decoration: none !important;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+      width="52" height="40" alt="telegram logo" />
+  </a>
+
+
+</div>
 
 
 
-##  Connect with Me :  
 
-<a href="https://www.linkedin.com/in/ahmed-ibrahim-asl/" target="_blank"><img
-        src="https://img.shields.io/badge/-Ahmed%20Asl-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://t.me/aa7608327" target="_blank"><img
-        src="https://img.shields.io/badge/-Ahmed%20Asl-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+###
 
 
+###
 
-### 🛠 &nbsp;Tech Stack
+<h1 align="left">Tech Stack</h1>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo" />
+</div>
 
+###
